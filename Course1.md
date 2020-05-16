@@ -32,8 +32,33 @@ highest possible throughput & lowest possible latency
 
 ### GCP regions and zones 
 zone: deployment area
-single failure domain in a region
-fault tolerance 
-multi region 
 
+Think of zone as single failure domain in a region
+
+fault tolerance, you can spread multi region 
+
+### Google Cloud Platform offers services for getting value from data
+- Compute 
+    - Computer Engine
+    - Kubernetes Engine
+    - App Engine 
+    - Cloud Functions
+- Storage 
+    - Bigtable 
+    - Cloud Storage
+    - Cloud SQL
+    - Cloud Spanner 
+    - Cloud Datastore 
+- Big Data 
+    - Big Query 
+    - Pub/Sub
+    - Data flow 
+    - Data proc
+    - Data lab
+- Machine Learning 
+    - Natural Language API
+    - Vision API
+    - Machine Learning 
+    - Speech API
+    - Translate API
 
